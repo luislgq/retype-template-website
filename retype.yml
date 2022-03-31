@@ -1,0 +1,13 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Luis´ Gomez Quintana
+  label: Personal Page
+links:
+- text: Linkedin
+  link: http://atheosgame.com/
+  
+footer:
+  Email: "luis.lgq@gmail.com"
+  Phone: "+34 601712561" 
