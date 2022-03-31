@@ -6,7 +6,9 @@ branding:
   label: Personal Page
 links:
 - text: Linkedin
-  link: http://atheosgame.com/
+  link: https://www.linkedin.com/in/luis-gomez-quintana-lgq/
+- text: Github
+  link: https://github.com/luislgq
   
 footer:
   Email: "luis.lgq@gmail.com"
