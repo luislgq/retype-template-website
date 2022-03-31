@@ -9,5 +9,4 @@ links:
   link: http://atheosgame.com/
   
 footer:
-  -text: "Email: luis.lgq@gmail.com"
-  -text: "Phone: +34 601712561" 
+  copyright: "Email: luis.lgq@gmail.com, Phone: +34 601712561" 
