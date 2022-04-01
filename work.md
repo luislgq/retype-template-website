@@ -1,5 +1,5 @@
 ---
-icon: home
+icon: organization
 order: 99
 label: Work Experience 
 ---

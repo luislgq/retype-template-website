@@ -1,5 +1,5 @@
 ---
-icon: home
+icon: mortar-board
 order: 98
 label: Education
 ---
