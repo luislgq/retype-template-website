@@ -2,13 +2,13 @@ input: .
 output: .retype
 url: # Add your website address here
 branding:
-  title: Luis Gomez's
+  title: Someone I used to know
   label: Personal Page
 links:
 - text: Linkedin
-  link: https://www.linkedin.com/in/luis-gomez-quintana-lgq/
+  link: https://www.linkedin.com
 - text: Github
-  link: https://github.com/luislgq
+  link: https://github.com
   
 footer:
-  copyright: "Email: luis.lgq@gmail.com, Phone: +34 601712561" 
+  copyright: "Email: youremailgmail.com, Phone: yournumber" 
