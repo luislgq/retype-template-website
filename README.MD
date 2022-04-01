@@ -12,7 +12,8 @@ Creating a retype website with my template is extremly simple, the only thing yo
 4. Go to the settings of your newly created repo and in "Pages" change the "Source Branch" from **"main"** to **"retype"**
 5. Now on the top bar of your menu go to **"Actions"** where you should see the following running job: **"pages build and deployment #1"**.
 6. Once this job has stop running you can find your website in the following link https://yourwebsitename.github.io (The URL matches the name of your repo created on the second step) 
-7. Now you can create new pages and edit the existing ones. You can do this from the terminal or directly from the Github UI. 
+7. Edit the retype.yml page to customize the page with your own links, name... 
+8. Now you can create new pages and edit the existing ones. You can do this from the terminal or directly from the Github UI. 
 
 # How to edit MD pages.
 
