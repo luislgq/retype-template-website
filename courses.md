@@ -1,5 +1,5 @@
 ---
-icon: home
+icon: light-bulb
 order: 97
 label: Certifications and MOOCs
 ---
