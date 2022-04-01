@@ -19,6 +19,7 @@ Creating a retype website with my template is extremly simple, the only thing yo
 A MD file is a text file that uses a Markdown language that provides with formatting options to the text. By example writing two asterist before and after a word (like this: \*\*text**) will turn the text into bold  **text**. For more information on how to use MD please see a basic guide [here](https://www.markdownguide.org/basic-syntax/). When using retype your MD files should start like this: 
 
 \---
+
 icon: iconname
 
 order: 100 
