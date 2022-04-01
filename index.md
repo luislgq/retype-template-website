@@ -1,7 +1,7 @@
 ---
 icon: home
 order: 100
-label: intro
+label: Executive Summary
 ---
 
 Test commit
