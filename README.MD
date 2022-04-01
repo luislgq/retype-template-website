@@ -16,4 +16,16 @@ Creating a retype website with my template is extremly simple, the only thing yo
 
 # How to edit MD pages.
 
-A MD file is a text file that uses a Markdown language that provides with formatting options to the text. By example writing two asterist before and after a word (like this: \**text**) will turn the text into bold  **text
+A MD file is a text file that uses a Markdown language that provides with formatting options to the text. By example writing two asterist before and after a word (like this: \*\*text**) will turn the text into bold  **text**. For more information on how to use MD please see a basic guide [here](https://www.markdownguide.org/basic-syntax/). When using retype your MD files should start like this: 
+
+/---
+icon: iconname
+order: 100 
+label: Title of the page 
+/---
+
+Retype will sorth the pages you create, in a descending order depending on the **"order"** value. Each page can have a small icon, the names of the **"icon"** can be found [here](https://octicons-primer.vercel.app/octicons/). The  **"label"** provides us with the title of the page, the name of the file does not matter, only what we set as the label. 
+
+Other than this, retype allows a great deal of customization, from tables to code containers. I strongly suggest browsing their website for a complete list of [Retype's](https://retype.com/) capabilities.
+
+
